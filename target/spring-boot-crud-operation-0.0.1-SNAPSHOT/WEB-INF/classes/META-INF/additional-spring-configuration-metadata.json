@@ -1,0 +1,107 @@
+{"properties": [
+  {
+    "name": "jwt.secret",
+    "type": "java.lang.String",
+    "description": "A description for 'jwt.secret'"
+  },
+  {
+    "name": "jwt.get.token.uri",
+    "type": "java.lang.String",
+    "description": "A description for 'jwt.get.token.uri'"
+  },
+  {
+    "name": "jwt.token.validity",
+    "type": "java.lang.String",
+    "description": "A description for 'jwt.token.validity'"
+  },
+  {
+    "name": "jwt.signing.key",
+    "type": "java.lang.String",
+    "description": "A description for 'jwt.signing.key'"
+  },
+  {
+    "name": "jwt.authorities.key",
+    "type": "java.lang.String",
+    "description": "A description for 'jwt.authorities.key'"
+  },
+  {
+    "name": "jwt.token.prefix",
+    "type": "java.lang.String",
+    "description": "A description for 'jwt.token.prefix'"
+  },
+  {
+    "name": "jwt.header.string",
+    "type": "java.lang.String",
+    "description": "A description for 'jwt.header.string'"
+  },
+  {
+    "name": "spring.datasource.hikari.pool-prepared-statements",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.hikari.pool-prepared-statements'"
+  },
+  {
+    "name": "spring.datasource.hikari.max-open-prepared-statements",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.hikari.max-open-prepared-statements'"
+  },
+  {
+    "name": "spring.user.datasource.driver-class-name",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.user.datasource.driver-class-name'"
+  },
+  {
+    "name": "jwt.expiration",
+    "type": "java.lang.String",
+    "description": "A description for 'jwt.expiration'"
+  },
+  {
+    "name": "jwt.route.authentication.path",
+    "type": "java.lang.String",
+    "description": "A description for 'jwt.route.authentication.path'"
+  },
+  {
+    "name": "jwt.route.authentication.refresh",
+    "type": "java.lang.String",
+    "description": "A description for 'jwt.route.authentication.refresh'"
+  },
+  {
+    "name": "myApp.folder",
+    "type": "java.lang.String",
+    "description": "A description for 'myApp.folder'"
+  },
+  {
+    "name": "myApp.folder",
+    "type": "java.lang.String",
+    "description": "A description for 'myApp.folder'"
+  },
+  {
+    "name": "myApp.folder",
+    "type": "java.lang.String",
+    "description": "A description for 'myApp.folder'"
+  },
+  {
+    "name": "myApp.folder",
+    "type": "java.lang.String",
+    "description": "A description for 'myApp.folder'"
+  },
+  {
+    "name": "myApp.folder",
+    "type": "java.lang.String",
+    "description": "A description for 'myApp.folder'"
+  },
+  {
+    "name": "myApp.folder",
+    "type": "java.lang.String",
+    "description": "A description for 'myApp.folder'"
+  },
+  {
+    "name": "myApp.folder",
+    "type": "java.lang.String",
+    "description": "A description for 'myApp.folder'"
+  },
+  {
+    "name": "spring.content.fs.filesystemRoot",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.content.fs.filesystemRoot'"
+  }
+]}
